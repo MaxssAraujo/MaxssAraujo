@@ -1,6 +1,6 @@
 Olá! Eu sou Max. 👋
 
-- 🔭 Hoje trabalho com Suporte ao usuário em sistema academico.
+- 🔭 Hoje trabalho com Suporte ao usuário.
 - 🌱 Estudando Font-end
 - 📫 How to reach me: maxpause79@gmail.com
 - 😄 Pronouns:Suel
